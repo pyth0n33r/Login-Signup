@@ -8,7 +8,7 @@ Se tendrá 7 días de plazo para completar el proyecto a partir del momento en q
 
 En este proyecto se busca evaluar las habilidades para el uso de control de versiones, conocimientos del lenguaje Kotlin, experiencia en el uso de Jetpack Compose, conocimientos de arquitectura y código limpio, uso de patrones de arquitectura.
 
-Si bien el candidato tiene la libertad de desarrollar el proyecto de acuerdo a su ingenio e imaginación, debe ceñirse lo más posible al ejemplo del proyecto y replicar cada una de las funcionalidades del mismo, cada funcionalidad o característica que tiene el proyecto tienen la finalidad de evaluar conocimientos específicos de programación, realizar modificaciones muy notorias podría comprometer la calificación de la evaluación del proyecto. Sin embargo, se pueden añadir, mejorar o recomendar algunas características como parte de la descripción del repositorio.
+Si bien el candidato tiene la libertad de desarrollar el proyecto de acuerdo a su ingenio e imaginación, debe ceñirse lo más posible al ejemplo del proyecto y replicar cada una de las funcionalidades del mismo, cada funcionalidad o característica que tiene el proyecto tienen la finalidad de evaluar conocimientos específicos de programación, realizar modificaciones muy notorias podría comprometer la calificación de la evaluación del proyecto. Sin embargo, se pueden añadir, mejorar o recomendar algunas características en nuevas ramas o como parte de la descripción del repositorio.
 
 ## DESCRIPCIÓN DEL PROYECTO
 
