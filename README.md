@@ -28,7 +28,7 @@ Partes que componen la pantalla de Login:
 6. El campo de contraseña debe contener un icono adicional que además permita mostrar u ocultar la contraseña que el usuario está ingresando.
 7. En el caso de que se introduzca algún dato erroneamente, que muestre un aviso de que los datos ingresados son incorrectos.
 8. Como es una interface gráfica demostrativa debe contener mensajes o avisos emergentes para los elementos: caja de selección, enlace para recuperar contraseña, botón del formulario.
-9. Finalmente el enlace de "Registrarse" debe llevar a la pantalla de Registro.
+9. Finalmente el enlace de "Ingresar" debe llevar a la pantalla de Registro.
 
 ### PANTALLA DE SIGNUP
 
