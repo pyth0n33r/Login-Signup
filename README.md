@@ -21,7 +21,8 @@ Esta pantalla debe contener mínimamente todos los elementos que se observan en 
 Partes que componen la pantalla de Login:
 
 1. Fondo de pantalla con un diseño, puede replicarse el fondo que se muestra o usar otro similar. La paleta de colores también puede ser modificable.
-2. Título de pantalla
+2. Título de pantalla, respetar el diseño, título y línea bajo el título. La fuente usada es Montserrat, pero hay libertad de usar cualquier otra fuente.
+3. 
 
 ### PANTALLA DE SIGNUP
 
