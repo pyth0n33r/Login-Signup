@@ -15,4 +15,7 @@ Este proyecto de una aplicación móvil demostrativa
   Tu navegador no soporta la etiqueta de video.
 </video>
 
+[![Ver el video](src/AppPrueba.mp4)]
+
+
 Demostración de las pantallas de Ingreso y Registro a una app móvil de Android, hecha en Android Studio con Kotlin y Jetpack Compose
