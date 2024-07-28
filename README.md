@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/8cbd28bd-78af-4a4b-82eb-60003a33e728
 
 ## PALABRAS FINALES
 
-Estos proyectos se irán replicando cada tres meses, debido al crecimiento de nuestro nicho exclusivo de clientes, la demanda de desarrolladores especializados en Front End de aplicaciones de dispositivos móviles nos permite ir requiriendo cada cierto tiempo de más personas interesadas en trabajar con nosotros, por lo que los que no hayan sido seleccionados por alguna razón podrán presentarse nuevamente en la siguiente convocatoria.
+Estos proyectos se irán replicando cada tres meses, debido al crecimiento de nuestro nicho exclusivo de clientes, la demanda de desarrolladores especializados en Front End de aplicaciones de dispositivos móviles nos permite ir requiriendo cada cierto tiempo de más personas interesadas en trabajar con nosotros, por lo que los que no hayan sido seleccionados por alguna razón podrán presentarse nuevamente en las siguientes convocatorias.
 
 Les deseamos suerte en el desarrollo del proyecto.
 
