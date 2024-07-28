@@ -11,11 +11,12 @@ Este proyecto de una aplicación móvil demostrativa
 ## VIDEO DE DEMOSTRACIÓN
 
 <video width="320" height="240" controls>
-  <source src="src/AppPrueba.mp4" type="video/mp4">
+  <source src="https://youtu.be/jZNx3LoQtCQ" type="video/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
 
-[![Ver el video](src/AppPrueba.mp4)]
+![Ver el video](https://youtu.be/jZNx3LoQtCQ)
 
 
+https://youtu.be/jZNx3LoQtCQ
 Demostración de las pantallas de Ingreso y Registro a una app móvil de Android, hecha en Android Studio con Kotlin y Jetpack Compose
