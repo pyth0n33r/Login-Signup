@@ -14,7 +14,7 @@ El repositorio debe contener imágenes, capturas o videos de la aplicación desa
 
 ## DESCRIPCIÓN DEL PROYECTO
 
-Esta descripción se debe utilizar para referencia de desarrollo de las pantallas de Acceso a la cuenta y Creación de cuenta.
+Esta descripción se debe utilizar para referencia de desarrollo de las pantallas de Acceso a la cuenta (Login) y Creación de cuenta (Signup).
 
 ### PANTALLA DE LOGIN
 
